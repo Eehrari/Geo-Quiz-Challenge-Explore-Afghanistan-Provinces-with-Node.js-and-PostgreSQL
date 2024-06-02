@@ -1,0 +1,2 @@
+# Geo-Quiz-Challenge-Explore-Afghanistan-Provinces-Node.js-and-PostgreSQL
+ Dive into the heart of Afghanistan with our interactive Geo-Quiz Challenge! Test your knowledge of Afghanistan's districts by guessing which province they belong to. Powered by a robust Node.js application and backed by a PostgreSQL database, this engaging project not only enhances your geographic understanding but also showcases seamless integration of modern web technologies. Are you ready to explore and learn? Challenge yourself now!
